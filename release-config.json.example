@@ -1,0 +1,8 @@
+{
+  "packageUrlTemplate": "https://github.com/hexaban43/Hex-Studios/releases/download/v{version}/{packageName}",
+  "packageNameTemplate": "Riftbound-Summoner-win64-{version}.zip",
+  "releaseTagTemplate": "v{version}",
+  "executableName": "Riftbound Summoner.exe",
+  "packageFileName": "Executable.pck",
+  "notes": "Export the Windows build into Executable/, run tools/publish_release.ps1, commit latest.json, and upload the matching zip file as a GitHub Release asset in hexaban43/Hex-Studios tagged v{version}."
+}
