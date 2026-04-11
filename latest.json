@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.3",
-    "packageUrl":  "https://github.com/hexaban43/Hex-Studios/releases/download/v1.3/Riftbound-Summoner-win64-1.3.zip",
-    "sha256":  "ABAC24639C4EFF752E1961D578CB31F5838808A00ED4655256F4581FA054F48C",
+    "version":  "1.4",
+    "packageUrl":  "https://github.com/hexaban43/Hex-Studios/releases/download/v1.4/Riftbound-Summoner-win64-1.4.zip",
+    "sha256":  "CEA11CAC2E5D1DF90F473AC1CE5E6C653A641D9978DFCF140D362EBC5F379599",
     "entryExecutable":  "Riftbound Summoner.exe",
-    "packageSize":  30417772,
-    "publishedAtUtc":  "2026-04-11T13:16:46.9031376Z",
+    "packageSize":  30467237,
+    "publishedAtUtc":  "2026-04-11T15:23:41.1103645Z",
     "releaseNotes":  ""
 }
