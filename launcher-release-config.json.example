@@ -1,0 +1,6 @@
+{
+  "packageUrlTemplate": "https://github.com/hexaban43/Hex-Studios/releases/download/hex-launcher-v{version}/{packageName}",
+  "packageNameTemplate": "Hex-Launcher-win64-{version}.zip",
+  "releaseTagTemplate": "hex-launcher-v{version}",
+  "notes": "Run tools/publish_launcher_release.ps1, commit launcher-latest.json, and upload the matching zip file as a GitHub Release asset tagged hex-launcher-v{version}."
+}

@@ -1,0 +1,9 @@
+﻿{
+    "version":  "1.0.2",
+    "packageUrl":  "https://github.com/hexaban43/Hex-Studios/releases/download/hex-launcher-v1.0.2/Hex-Launcher-win64-1.0.2.zip",
+    "sha256":  "B2FEC29AC94BDC9231F065C215DD3D569949D64E3E829EE3CC813BCB21EB5289",
+    "entryExecutable":  "Hex-Launcher.exe",
+    "packageSize":  65691293,
+    "publishedAtUtc":  "2026-04-15T15:10:27.8918704Z",
+    "releaseNotes":  ""
+}
